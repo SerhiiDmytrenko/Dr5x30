@@ -1,0 +1,50 @@
+Altium Designer Pick and Place Locations
+G:\My Drive\R&D\Projects\dropping\Dr.5x30\Hardware\Dr5x30\Project Outputs for PCB_Project\Pick Place\Pick Place for PCB_Dr5x3.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       21/10/26
+Time:       16:10
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                Layer       Footprint             Center-X(mm) Center-Y(mm) Rotation Description                                                                    
+J4         Pin_4_Header           BottomLayer pin_h_4_p2,54mm       22.5270      35.6050      270      ""                                                                             
+J3         Pin_4_Header           BottomLayer pin_h_4_p2,54mm       19.4250      35.6050      270      ""                                                                             
+MCU1       STM32F030F4P6          TopLayer    TSSOP-20              23.7750      23.6000      0        MCU                                                                            
+C6         "22uF 6.3V"            TopLayer    C_0603                26.0000      41.5250      90       "22uF 6,3V X5R 20% 0603"                                                       
+SW2        button_slide_switch_2  BottomLayer button_slide_switch_2 31.5750      4.0250       180      8x6,9x4,3                                                                      
+VD2        SS34A                  TopLayer    D_SCH_SS34A           68.1600      24.6750      180      "Vrrm 40V / If 3? / Vf0,5V / Ifsm80A"                                          
+VD1        RS2M                   TopLayer    VD_DO-214AA           56.0000      9.9400       270      "Vf 1.3 / I2A / 1000V"                                                         
+U2         AMS1117-3.3            TopLayer    LDO_SOT223            31.0680      37.2500      0        "Linear Voltage Regulator IC Positive Fixed 1 Output 1A SOT-223-3L"            
+U1         "LM2596SX-ADJ/NOPB TI" TopLayer    LM2596SX-ADJ/NOPB     47.2000      26.3750      180      "DC/DC Buck Converter IC"                                                      
+SW1        "4,5x4,5, H7mm,"       BottomLayer button_SPST_NO        9.6750       3.9250       180      "4,5x4,5, H7mm,"                                                               
+R11        20K                    TopLayer    R0603                 11.0000      34.1250      90       "20 kOhm 1% 0,1W 50V"                                                          
+R10        10K                    TopLayer    R0603                 8.0071       34.8936      180      "10 kOhm 5% 0,1W 50V"                                                          
+R9         10K                    TopLayer    R0603                 7.9750       37.4000      180      "10 kOhm 5% 0,1W 50V"                                                          
+R8         20K                    TopLayer    R0603                 10.7775      38.2000      270      "20 kOhm 1% 0,1W 50V"                                                          
+R6         51                     TopLayer    R0603                 21.7000      10.2500      270      "51 Ohm 5% 0,1W 50V 0603"                                                      
+R5         51                     TopLayer    R0603                 16.6160      10.3250      270      "51 Ohm 5% 0,1W 50V 0603"                                                      
+R7         10K                    TopLayer    R0603                 35.4000      16.2750      90       "10 kOhm 5% 0,1W 50V"                                                          
+R4         10K                    TopLayer    R0603                 16.7000      26.5250      0        "10 kOhm 5% 0,1W 50V"                                                          
+R3         10K                    TopLayer    R0603                 11.1750      25.0250      0        "10 kOhm 5% 0,1W 50V"                                                          
+R2         1K                     TopLayer    R0603                 55.9250      40.9750      90       "R0603 1K 1% 0.1W YAGEO"                                                       
+R1         3.01K                  TopLayer    R0603                 56.7000      37.8750      180      "R0603 3.01K 1% 0.1W Hitano"                                                   
+LED1       "Led GB"               BottomLayer led_5mm_3pin          19.1350      5.0500       90       "Led 5mm Green Blue ??"                                                        
+L1         33uH                   TopLayer    L_SND0705             66.1000      32.1750      90       "SND0705-330M (33uH, ±20%, 1.2A, 0.13 Ohm, SMD: 7.8x7.0mm, h=5.0mm) Anla Tech" 
+J3         "2 pin header"         BottomLayer pin_h_2_p2,54mm       10.9950      14.4250      180      p.2,54mm                                                                       
+J2         Pin_12_Header          BottomLayer pin_h_12_p2,54mm      4.5250       28.5300      270      ""                                                                             
+J1         "XT30 male"            BottomLayer XT30PW-M              66.8000      7.4750       90       "Socket; DC supply; XT30; male; PIN: 2; on PCBs; THT; Colour: yellow"          
+C12        4,7uF                  TopLayer    C_0603                33.6650      23.2020      90       "4,7uF 6,3V X5R 10% 0603 (CL10A475KQ8NNNC-Samsung)"                            
+C11        100nF                  TopLayer    C_0603                31.7650      23.2020      90       "100nF 16V X7R 5% 0603 (CL10B104JO8NNNC – Samsung)"                            
+C10        100nF                  TopLayer    C_0603                29.9500      23.2250      90       "100nF 16V X7R 5% 0603 (CL10B104JO8NNNC – Samsung)"                            
+C9         100nF                  TopLayer    C_0603                13.7450      25.7750      270      "100nF 16V X7R 5% 0603 (CL10B104JO8NNNC – Samsung)"                            
+C8         10nF                   TopLayer    C_0603                17.0750      22.8500      90       "10nF 50V X7R 10% 0603 (CL10B103KB8NNNC-Samsung)"                              
+C7         1nF                    TopLayer    C_0603                15.2000      22.8500      270      "1nF 50V X7R 5% 0603 4k/reel (C0603B102J500NT-Hitano)"                         
+C5         "22uF 6.3V"            TopLayer    C_0603                31.1000      31.0250      90       "22uF 6,3V X5R 20% 0603"                                                       
+C4         "10uF 6,3V"            TopLayer    C_0603                36.4250      34.7500      90       "10uF 6,3V X5R 20% 0603"                                                       
+C3         "1000uF 10V"           BottomLayer C_POL_D8_P3.5         47.6000      40.0750      270      "1000uF 10V RT1 8x12mm +105°?"                                                 
+C2         "220uF 25V"            BottomLayer C_POL_D8_P3.5         67.8500      37.8750      0        "220uF 25V RTE 8x11,5mm (low esr) (RTE1E221M0812-LEAGUER) Electrolytic"        
+C1         "100uF 63V"            BottomLayer C_POL_D10_P5          63.2000      20.1750      0        "100uF 63V EHR 10x13mm (EHR101M63B-Hitano)  Electrolytic"                      

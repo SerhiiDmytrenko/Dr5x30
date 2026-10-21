@@ -1,0 +1,56 @@
+Protel Design System Design Rule Check
+PCB File : G:\My Drive\R&D\Projects\dropping\Dr.5x30\Hardware\Dr5x30\PCB_Dr5x3.PcbDoc
+Date     : 21/10/2026
+Time     : 18:39:33
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad MCU1-5(20.895mm,23.925mm) on Top Layer And Track (26.655mm,23.93mm)(29.905mm,23.93mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Hall_S2 Between Pad R10-2(7.232mm,34.894mm) on Top Layer And Pad R10-1(8.782mm,34.894mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Hall_S1 Between Pad R9-2(7.2mm,37.4mm) on Top Layer And Track (8.75mm,37.4mm)(8.775mm,37.425mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SW2 Between Pad SW2-2(31.575mm,4.025mm) on Multi-Layer And Track (33.5mm,4.1mm)(33.5mm,10.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VIN Between Track (56mm,7.811mm)(56.002mm,7.813mm) on Top Layer And Pad VD1-C(56mm,12.105mm) on Top Layer 
+Rule Violations :5
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=1mm) (Preferred=0.4mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 5
+Waived Violations : 0
+Time Elapsed        : 00:00:00
